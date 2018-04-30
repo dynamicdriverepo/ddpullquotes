@@ -7,8 +7,8 @@ To that end, this jQuery script makes it simple as pie to turn any inline text o
 
 ## Requirements ##
 
-jQuery 1.7+
-scrollReveal library 
++ jQuery 1.7+
++ [ScrollReveal LIbrary](https://github.com/jlmakes/scrollreveal) 
 
 ## Installation and Usage ##
 

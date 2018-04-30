@@ -3,7 +3,7 @@ Pull Quotes are great for highlighting important bits of information inside an a
 
 To that end, this jQuery script makes it simple as pie to turn any inline text on your page into an automatic pullquote, with optional animation that plays to draw even more attention to them. Simply wrap any text with a SPAN tag, and the script will duplicate the content and position it outside the regular flow of the surrounding text to create an awesome pull quote.
 
-![Simple CSS Button Hover Effects](ergomenu.gif?raw=true "Simple CSS Button Hover Effects")
+![Pullquotes with Animation](pullquotes.gif?raw=true "Pullquotes with Animation")
 
 ## Requirements ##
 
